@@ -1,4 +1,4 @@
-about
-=====
+# about me
 
-Just an about me page
+
+Hi. Just an about me page.
